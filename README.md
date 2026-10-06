@@ -1,100 +1,174 @@
-# 👋 Hi, I'm Ashish Biswal
+<div align="center">
 
-### 🤖 Aspiring AI/ML Engineer | Python Developer | Machine Learning Enthusiast
+# 👋 Hi, I'm **Ashish Biswal**
 
-I'm a **B.Tech Computer Science Engineering (AI & ML)** student at **GITA Autonomous College**, passionate about building practical AI/ML solutions and Python-based applications.
+### 🤖 Aspiring AI/ML Engineer • Python Developer • Machine Learning Enthusiast
 
-I enjoy working with **Machine Learning, Data Analytics, Python, APIs, and backend development**, and I'm continuously improving my skills by building projects and exploring new AI technologies.
+<p>
+  <a href="https://www.linkedin.com/in/ashish-biswal-bb4934390">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ashishbiswal8658@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/ashishbiswal8658-star">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (AI & ML) — **CGPA: 9.14/10**
-* 🤖 Aspiring **AI/ML Engineer**
-* 🐍 Strong interest in **Python & Machine Learning**
-* 📊 Interested in **Data Analytics and AI applications**
-* 🔌 Experienced with **Flask, FastAPI & REST APIs**
-* ☁️ Foundational knowledge of **AWS**
-* 💻 Currently improving my problem-solving and development skills
-* 🔍 Interested in building real-world AI-powered applications
+```python
+class AshishBiswal:
+
+    name = "Ashish Biswal"
+    role = "Aspiring AI/ML Engineer"
+    education = "B.Tech CSE (AI & ML)"
+    college = "GITA Autonomous College"
+    cgpa = "9.14 / 10"
+
+    skills = [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Data Analytics",
+        "Flask",
+        "FastAPI",
+        "REST APIs"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "Python Development"
+    ]
+```
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🤖 Artificial Intelligence & Machine Learning Intern — Eduskills
+### 🤖 Artificial Intelligence & Machine Learning Intern
 
-**2026 – Present**
+**Eduskills • 2026 – Present**
 
-* Engineered and evaluated Machine Learning models using **Python and Scikit-learn**
-* Achieved an average accuracy of approximately **85%** on test datasets
+* Engineered and deployed AI models using **Python and Scikit-learn**
+* Achieved an average accuracy of **85% on test datasets**
 * Worked on data preprocessing, model training, evaluation, and prediction
-* Developed **5+ small-scale classification-based ML projects**
-* Applied practical Machine Learning concepts to real-world problems
+* Developed **5+ small-scale classification-based Machine Learning projects**
+* Applied Machine Learning concepts and algorithms to practical projects
 
-### 💻 Software Development Intern — Cognify IT Technology
+### 💻 Software Development Intern
 
-**2025 – 2026**
+**Cognify IT Technology • 2025 – 2026**
 
 * Completed a Python Full Stack Development program
-* Developed responsive interfaces using **HTML5, CSS3 and JavaScript**
-* Built backend functionality using **Flask and FastAPI**
-* Implemented **REST APIs**
+* Developed interfaces using **HTML5, CSS3, and JavaScript**
+* Implemented backend functionality using **Flask and FastAPI**
+* Worked with **REST APIs**
 * Developed **3+ foundational web applications**
 * Integrated frontend and backend components
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming
 
-`Python` `SQL`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
-`Machine Learning` `Scikit-learn` `NumPy` `Pandas` `TensorFlow`
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
-### 📊 Data & Analytics
+## 📊 Data Analytics
 
-`NumPy` `Pandas` `Matplotlib`
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
 
-### 🌐 Frontend
+## 🌐 Frontend
 
-`HTML5` `CSS3` `JavaScript` `Tkinter` `React (Basic)`
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
 
-### ⚙️ Backend & APIs
+## ⚙️ Backend & APIs
 
-`Flask` `FastAPI` `REST APIs`
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge">
+</p>
 
-### 🗄️ Database
+## 🗄️ Database
 
-`SQL` `Relational Databases` `DBMS`
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Relational%20Databases-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/DBMS-4B8BBE?style=for-the-badge">
+</p>
 
-### ☁️ Cloud
+## ☁️ Cloud
 
-`AWS EC2` `AWS S3` `AWS Lambda`
+<p>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+</p>
 
-> AWS skills: Foundational Knowledge
+**AWS:** Foundational Knowledge
 
-### 🔧 Tools
+## 🔧 Tools
 
-`Git` `GitHub` `VS Code` `Google Colab` `Jupyter Notebook` `Postman`
-
-### 🌐 Core Subjects
-
-`Operating Systems (OS)` `Data Analytics (DA)` `Computer Networks (CN)`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
 ---
 
-## 🔥 Featured Projects
+# 📚 Core Subjects
 
-### 🤖 NOVA — AI Voice Assistant
+<p>
+<img src="https://img.shields.io/badge/Operating%20Systems-OS-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analytics-DA-0984E3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer%20Networks-CN-00B894?style=for-the-badge">
+</p>
 
-A Python-based AI voice assistant designed for voice interaction and task automation.
+---
 
-**Key Features:**
+# 🚀 Featured Projects
+
+## 🤖 NOVA — AI Voice Assistant
+
+Python-based AI voice assistant for voice interaction and task automation.
+
+**Features:**
 
 * 🎙️ Speech recognition
 * 🔊 Text-to-speech
@@ -107,25 +181,24 @@ A Python-based AI voice assistant designed for voice interaction and task automa
 
 ---
 
-### 🩺 Diabetes Prediction System
+## 🩺 Diabetes Prediction System
 
-A Machine Learning classification system for predicting diabetes.
+Machine Learning classification system for diabetes prediction.
 
-**Key Features:**
+**Features:**
 
-* Built a classification-based ML system
-* Applied **Logistic Regression**
-* Applied **Random Forest**
-* Performed data preprocessing
-* Trained and evaluated ML models
-* Used data analysis and visualization techniques
+* 📊 Data preprocessing
+* 🧠 Logistic Regression
+* 🌳 Random Forest
+* 📈 Model training and evaluation
+* 📉 Data analysis and visualization
 
 **Technologies:**
-`Python` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Machine Learning`
+`Python` `Scikit-learn` `NumPy` `Pandas` `Matplotlib`
 
 ---
 
-## 🏆 Certifications & Achievements
+# 🏆 Certifications & Achievements
 
 * 🥇 **Google AI Essentials** — Google / Coursera
 * 🐍 **Python for Data Science, AI & Development** — IBM / Coursera
@@ -134,45 +207,53 @@ A Machine Learning classification system for predicting diabetes.
 
 ---
 
-## 🎯 Current Focus
+# 🎓 Education
 
-```text
-Machine Learning
-      ↓
-Python Development
-      ↓
-Data Analytics
-      ↓
-AI Applications
-      ↓
-Generative AI
-      ↓
-Advanced AI/ML Engineering
-```
+### GITA Autonomous College
 
-I'm continuously working on improving my **Machine Learning, Python development, problem-solving, and AI engineering skills**.
+**B.Tech — Computer Science Engineering (AI & ML)**
+📍 Bhubaneswar, Odisha
+📊 **CGPA: 9.14 / 10**
+📅 2024 – Present
+
+### Driems Higher Secondary School
+
+**Intermediate — Physics, Chemistry, Mathematics**
+📊 **72%**
+📅 2022 – 2024
 
 ---
 
-## 📈 My Goals
+# 🎯 Professional Goal
 
-* 🚀 Become a skilled **AI/ML Engineer**
-* 🧠 Build production-oriented Machine Learning applications
-* 🌐 Combine AI with backend/API development
-* ☁️ Improve my cloud and deployment knowledge
-* 💡 Build more real-world AI projects
-* 📚 Continuously learn emerging AI technologies
+> To grow as an **AI/ML Engineer** by applying Machine Learning, Python, Data Analytics, and software development skills to practical projects.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-📧 **Email:** [ashishbiswal8658@gmail.com](mailto:ashishbiswal8658@gmail.com)
-💼 **LinkedIn:** [Ashish Biswal](https://www.linkedin.com/in/ashish-biswal-bb4934390)
-💻 **GitHub:** [ashishbiswal8658-star](https://github.com/ashishbiswal8658-star)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ashish-biswal-bb4934390">
+<img src="https://img.shields.io/badge/LinkedIn-Ashish%20Biswal-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:ashishbiswal8658@gmail.com">
+<img src="https://img.shields.io/badge/Email-ashishbiswal8658%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/ashishbiswal8658-star">
+<img src="https://img.shields.io/badge/GitHub-ashishbiswal8658--star-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-> **"Learn. Build. Improve. Repeat."** 🚀
+### 💡 Learn • Build • Improve • Repeat 🚀
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
