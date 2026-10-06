@@ -41,6 +41,12 @@ An AI-powered project aimed at improving road safety through intelligent monitor
 - Web Development
 - Git & GitHub
 - Jupyter Notebook
+- vs code
+- google collab
+- antigravity
+- docker
+- AWS
+- EC2
 
 ## 📌 Current Focus
 
